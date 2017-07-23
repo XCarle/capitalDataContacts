@@ -27,6 +27,14 @@
 1 - Launch the app : `CapitalDataContacts`
 2 - Fill an option to the app following the apps commands
 
+# Tests
+
+No tests provided in this version
+
 # Author
 
-Alexandre Carle 
+Alexandre Carle
+
+# Github
+
+https://github.com/XCarle/capitalDataContacts
