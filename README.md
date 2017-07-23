@@ -2,9 +2,10 @@
 
 # Requirements
 
-1 - Packages :
+## 1 - Packages :
   Run `go get golang.org/x/net/context`to load net context before calling the Application
-2 - Data Base :
+
+## 2 - Data Base :
   1 ° Install sqlite3
 
   2 ° Create database into the app directory : `sqlit3 contacts.db`
@@ -23,7 +24,7 @@
       );
     ```
 
-3 - Build the app
+## 3 - Build the app
   From the CapitalDataApplicationContact source directory run `go install`
 
 # Run Application
